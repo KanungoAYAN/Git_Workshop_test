@@ -1,1 +1,9 @@
 All the very best
+name- Prasanjit Panda
+sec -B
+1. mkdir comand is used to create a new directory
+2. ls --a is used for see hidden files in a directory
+3. Git init comand 
+4. for creating a new file touch <file_name> comand is used in the folder
+5. cd<file_name> comand is usedto open a file
+6. Git is a software tool while git hub is a service. Git provides desktop interface called GUI and github provides a desktop interface called github desktop.It does not provide user management future while git hub provides built in user management future.
